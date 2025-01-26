@@ -10,7 +10,7 @@ I'm a passionate developer with interests in Python, web development, and machin
 - 🌱 I’m currently learning more about advanced machine learning algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Python, web development, and machine learning
-- 📫 How to reach me: [your email or social media handle]
+- 📫 How to reach me: [ilmasy_24_887@hotmail.com]
 - ⚡ Fun fact: I love solving puzzles and playing chess
 
 ## 🛠️ Technologies & Tools
