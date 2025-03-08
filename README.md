@@ -43,13 +43,12 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 - [LinkedIn](https://www.linkedin.com/in/auria-reyes/)
 - [Twitter](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
 
+🤝 &nbsp; Connect with Me
 
-Thanks for visiting my profile!
-<p align="center">
-<img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" height="280" />
- <p/>
-<h1 align="center"> Hi! I'm Navodya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navodya-pasqual-11ba801b1/)
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 
+<hr>
 
 
 <!-- TODO: Add last video link -->
