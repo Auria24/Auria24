@@ -43,7 +43,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/auria-reyes)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
-[<img src="https://img.shields.io/badge/instagram-%231DA1F4.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />](https://www.instagram.com/arisaniareyes?igsh=MW5ydzdhanpyY3Zp)
+[<img src="https://img.shields.io/badge/instagram-%231DA1F4.svg?&style=for-the-badge&logo=instagram&logoColor=fucsia" />](https://www.instagram.com/arisaniareyes?igsh=MW5ydzdhanpyY3Zp)
 [<img src="https://img.shields.io/badge/threads-%231DA1F4.svg?&style=for-the-badge&logo=threads&logoColor=black" />](https://www.threads.net/@arisaniareyes)
 [<img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=disord&logoColor=white" />](https://discord.gg/xaUhFaQQ)
 [<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Aurisa87)
