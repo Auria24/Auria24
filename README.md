@@ -45,7 +45,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 🤝 &nbsp; Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/navodya-pasqual-11ba801b1/](https://www.linkedin.com/in/auria-reyes))
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/auria-reyes)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
 
 <hr>
