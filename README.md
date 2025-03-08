@@ -2,7 +2,7 @@
 
 # Hi there, I'm Auria 👋
 
-I'm a passionate developer with interests in Python, web development, and machine learning. I love exploring new technologies and constantly improving my skills. Welcome to my GitHub profile!
+I'm a passionate developer with interests in Python, and machine learning. I love exploring new technologies and constantly improving my skills. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
