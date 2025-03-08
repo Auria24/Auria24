@@ -48,7 +48,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 [<img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=disord&logoColor=white" />](https://discord.gg/xaUhFaQQ)
 [<img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Aurisa87)
 [<img src="https://img.shields.io/badge/tuwich-%230077B5.svg?&style=for-the-badge&logo=twich&logoColor=white" />](https://www.twitch.tv/aris2487?sr=a)
-[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](aurisa2487@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%230077B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](https://gmail.com/aurisa2487@gmail.com)
 
 
 
