@@ -38,10 +38,6 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Auria24&repo=another-repo-name&theme=radical)](https://github.com/Auria24/another-repo-name)
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/auria-reyes/)
-- [Twitter](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
 
 🤝 &nbsp; Connect with Me
 
