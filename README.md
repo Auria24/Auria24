@@ -43,8 +43,8 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/auria-reyes)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
-[<img src="https://img.shields.io/badge/instagram-%231DA1F4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/direct/inbox/arisanireyes)
-[<img src="https://img.shields.io/badge/threads-%231DA1F2.svg?&style=for-the-badge&logo=threads&logoColor=white" />](@arisaniareyes)
+[<img src="https://img.shields.io/badge/instagram-%231DA1F4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/@arisanireyes)
+[<img src="https://img.shields.io/badge/threads-%231DA1F2.svg?&style=for-the-badge&logo=threads&logoColor=white" />](https://www.threads.net/@arisaniareyes)
 [<img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=disord&logoColor=white" />](aris3840)
 
 
