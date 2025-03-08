@@ -48,7 +48,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 <hr>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,discord,docker,github,html,java,js,linux,mysql,py,vscode,powerbi,excel&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,discord,docker,github,html,java,js,linux,mysql,py,vscode,powerbi,excel&perline=14" />| <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   </a>
 </p>
 
