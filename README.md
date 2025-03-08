@@ -45,6 +45,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
 [<img src="https://img.shields.io/badge/instagram-%231DA1F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />]()
 [<img src="https://img.shields.io/badge/threads-%231DA1F2.svg?&style=for-the-badge&logo=threads&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=disord&logoColor=white" />](aris3840)
 <a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /> (aris3840)</a>
 
 
