@@ -80,7 +80,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![Microsoft 365](https://img.shields.io/badge/-Microsoft%20365-000?&logo=Microsoft-365)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)
-![Google sheets](https://img.shields.io/badge/-Google%20Sheets-000.?&logo=google%20sheets)
+![Google sheets](https://img.shields.io/badge/-Google%20Sheets-000?&logo=google%20sheets)
 
 ### Bookshop:
 &emsp;
