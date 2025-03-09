@@ -43,7 +43,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/auria-reyes)
 [<img src="https://img.shields.io/badge/x-12100E.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arisaniareyes?igsh=MW5ydzdhanpyY3Zp)
+[<img src="https://img.shields.io/badge/instagram-%ff5851db.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arisaniareyes?igsh=MW5ydzdhanpyY3Zp)
 [<img src="https://img.shields.io/badge/threads-12100E.svg?&style=for-the-badge&logo=threads&logoColor=white" />](https://www.threads.net/@arisaniareyes)
 [<img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=disord&logoColor=white" />](https://discord.gg/xaUhFaQQ)
 [<img src="https://img.shields.io/badge/telegram-%230477B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Aurisa87)
@@ -77,6 +77,38 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 
 ##33333333333
 
+
+
+## 🛠️ My Skills
+-------------------
+### Programming languages:
+&emsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+
+
+### Misc tools:
+&emsp;
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+
+
+### Databases:
+&emsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+### SRE & DevOps:
+&emsp;
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
+
+### Visualizacion de datos:
 
 
 
