@@ -51,34 +51,6 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 [<img src="https://img.shields.io/badge/gmail-%23FF4500.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](http://aurisa2487@gmail.com)
 
 
-
-
-<!-- TODO: Add last video link -->
-
-
-### 🛠 &nbsp; Tech Stack
-
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> | 
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> |<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>|<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">|<img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'>|<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">|
-
-<hr>
-
-### ⚙️ &nbsp; Git Analytics
- 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
-
-------
-Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
-
-
-
-
-##33333333333
-
-
-
 ## 🛠️ My Skills
 -------------------
 ### Programming languages:
@@ -103,7 +75,7 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### Visualizacion de datos:
+### data visualization:
 &emsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
@@ -111,7 +83,7 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)
 
 
-### Librerias:
+### Bookshop:
 &emsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
@@ -120,4 +92,32 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
 ![Math](https://img.shields.io/badge/-Math-000?&logo=Math)
 
+<!-- TODO: Add last video link -->
 
+
+
+
+<hr>
+
+### ⚙️ &nbsp; Git Analytics
+ 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NavodyaPasqual&theme=dark&show_icons=true" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavodyaPasqual&theme=dark&layout=compact" width="410" /></p>
+
+------
+Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
+
+
+
+
+##33333333333
+
+
+
+
+
+### 🛠 &nbsp; Tech Stack
+
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=40> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40"> | <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40"> | 
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> |<a href="https://discordapp.com/users/957722095381540874" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>|<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">|<img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'>|<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png">|
