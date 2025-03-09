@@ -94,7 +94,7 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Powershell](https://img.shields.io/badge/-Postman-000?&logo=Powershell)
+![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
 
 
 ### Databases:
