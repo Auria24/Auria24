@@ -66,7 +66,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
-![ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
 
 ### Databases:
 &emsp;
