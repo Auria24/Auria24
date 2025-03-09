@@ -109,6 +109,14 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
 ![excel](https://img.shields.io/badge/-excel-000?&logo=excel)
 
+### Librerias:
+&emsp;
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Scipy](https://img.shields.io/badge/-Scipy-000?&logo=Scipy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Math](https://img.shields.io/badge/-Math-000?&logo=Math)
 
 
-
+ Math
