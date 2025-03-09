@@ -44,11 +44,11 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 [<img src="https://img.shields.io/badge/x-12100E.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://x.com/24_887?t=vDHlkkqePxKWgGNGUkvzgA&s=09)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arisaniareyes?igsh=MW5ydzdhanpyY3Zp)
 [<img src="https://img.shields.io/badge/threads-12100E.svg?&style=for-the-badge&logo=threads&logoColor=white" />](https://www.threads.net/@arisaniareyes)
-[<img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=disord&logoColor=white" />](https://discord.gg/xaUhFaQQ)
+[<img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=disord&logoColor=white" />](https://discord.gg/xaUhFaQQ)
 [<img src="https://img.shields.io/badge/telegram-%230477B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Aurisa87)
 [<img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white" />](https://www.twitch.tv/aris2487?sr=a)
 [<img src="https://img.shields.io/badge/gmail-%23FF4500.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](http://aurisa2487@gmail.com)
-
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)]
 
 ## 🛠️ My Skills
 -------------------
