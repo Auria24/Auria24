@@ -66,7 +66,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
-
+![ubuntu](https://img.shields.io/badge/ubuntu-000?style=for-the-badge&logo=ubuntu&logo=ubuntu)
 
 ### Databases:
 &emsp;
@@ -108,17 +108,11 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 
 
-##33333333333
-
-
-
-
-
 ### 🛠 &nbsp; Tech Stack
 
 |<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">|   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> |  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40"> |<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40">  |<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40">  |<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40"> |<img href="https://discordapp.com/users/957722095381540874" target="blank"> |<img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /> |<img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> |<img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'>|<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"/> |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> |<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"/> |<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> |<img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/>|<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> |<img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/> |<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> |<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> |<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> | <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a> |<a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a> |<a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a>|
+|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> |<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"/> |<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> |<img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/>|<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> |<img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/> |<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> |<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> |<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> | <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a> |<a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a> |<a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a>|![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logo)
 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
@@ -137,140 +131,108 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 
 <!-- Greeting -->
 
-###
+###33333333
 
   
   
  
 
 
-<h2 align="center">
-  <img align="center" height="256px" src="https://user-images.githubusercontent.com/51513908/150689872-eaa21d9a-7c65-4662-938c-26091c09cd70.svg"> 
-  <br>
-  <br>
-  Hey There! This is Sudeep Jaiswal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/banner.png" width="100%" alt="Banner">
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=48&center=true&width=500&height=100&lines=Android+Developer;Game+Developer;Graphic+Designer;VFX+Artist;C%2B%2B+Lover">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I+Am+A+Web+Developer.+%F0%9F%98%8D" alt="Typing SVG">
 </p>
 
+<h1 align="left">🚀 About Me</h1>
 
-<p align="center">
-    
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/jaiswal4sudeep"/>
-  </a>
-  <a href="https://github.com/DenverCoder1?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/jaiswal4sudeep?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  
-</p>
+<p align="justify">As a seasoned <b>full stack web developer</b> hailing from India, I possess an unwavering passion for creating bespoke digital solutions from scratch, fueled by my insatiable appetite for coding. My current focus is on perfecting the art of <b>React.js</b>, a framework that has captured my heart and ignited my creativity. With over <b>3+ years of programming experience</b> under my belt, I bring a wealth of technical expertise to every project I undertake. Moreover, my innate ability to seamlessly blend design aesthetics with cutting-edge technology, allows me to deliver intricate applications as well as simplistic yet elegant websites. So if you're looking for <b>a proficient developer who takes pride in delivering quality results</b>, look no further.</p>
 
+<h1 align="left">🧠 Skills Showcase</h1>
 
-  ## About Me
-<ul>
-  <li> I’m currently working on Android Developement with Flutter. </li>
-  <li> I love to solve Data Structure and Algorithm Problems with C++. </li>
-  <li> I'm a Computer Science Engineering Student (Graduating in 2023). </li>
-  <li> I do VFX Editing (After Effects, Cinema 4d, Blender) in my Free Time. </li>
-  <li> I made some Games in Unity3D Game Engine. </li>
-<ul>
+### ☕️Languages
 
+![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Java%20-%23E34F26.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9Ii0zIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgc3Ryb2tlPSIjZmZmZmZmIj4KDTxnIGlkPSJTVkdSZXBvX2JnQ2FycmllciIgc3Ryb2tlLXdpZHRoPSIwIi8+Cg08ZyBpZD0iU1ZHUmVwb190cmFjZXJDYXJyaWVyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz4KDTxnIGlkPSJTVkdSZXBvX2ljb25DYXJyaWVyIj4KDTxwYXRoIGQ9Im01LjcwMSAxOC41NjFzLS45MTguNTM0LjY1My43MTRjLjU3NS4wODUgMS4yMzkuMTM0IDEuOTEzLjEzNCAxLjA4NCAwIDIuMTM4LS4xMjUgMy4xNDktLjM2M2wtLjA5My4wMThjLjM3NC4yMjguODA5LjQ0NSAxLjI2Mi42MjRsLjA1OS4wMmMtNC42OTggMi4wMTQtMTAuNjMzLS4xMTctNi45NDItMS4xNDh6Ii8+Cg08cGF0aCBkPSJtNS4xMjcgMTUuOTMzcy0xLjAyOS43NjIuNTQyLjkyNGMuNjg3LjA4NiAxLjQ4Mi4xMzYgMi4yODkuMTM2IDEuNDYxIDAgMi44ODQtLjE2MiA0LjI1Mi0uNDY4bC0uMTI5LjAyNGMuMjc1LjI1OC42MDQuNDYzLjk2OC41OTZsLjAyLjAwNmMtNS42OCAxLjY2MS0xMi4wMDguMTMxLTcuOTQyLTEuMjE4eiIvPgoNPHBhdGggZD0ibTkuOTY2IDExLjQ3NWMxLjE1OCAxLjMzMy0uMzA0IDIuNTMyLS4zMDQgMi41MzJzMi45MzktMS41MiAxLjU5LTMuNDE4Yy0xLjI2MS0xLjc3Mi0yLjIyOC0yLjY1MyAzLjAwNi01LjY4OCAwIDAtOC4yMTYgMi4wNTItNC4yOTIgNi41NzR6Ii8+Cg08cGF0aCBkPSJtMTYuMTggMjAuNTA1cy42NzguNTYtLjc0Ny45OTJjLTIuNzEyLjgyMi0xMS4yODcgMS4wNy0xMy42Ny4wMzMtLjg1Ni0uMzczLjc1LS44OSAxLjI1NC0uOTk4LjIzMi0uMDU5LjQ5OS0uMDkzLjc3NC0uMDkzaC4wNTctLjAwM2MtLjk1Mi0uNjcxLTYuMTU1IDEuMzE4LTIuNjQgMS44ODYgOS41NzkgMS41NTQgMTcuNDYyLS43IDE0Ljk3OC0xLjgyeiIvPgoNPHBhdGggZD0ibTYuMTQyIDEzLjIxcy00LjM2MiAxLjAzNi0xLjU0NSAxLjQxMmMuNzU5LjA2MyAxLjY0NC4wOTggMi41MzYuMDk4IDEuMTM5IDAgMi4yNjQtLjA1OCAzLjM3Mi0uMTcxbC0uMTM5LjAxMmMxLjgwNS0uMTUyIDMuNjE4LS40OCAzLjYxOC0uNDgtLjQyNS4xODYtLjc4NS4zODItMS4xMjYuNjA1bC4wMjktLjAxOGMtNC40MyAxLjE2NS0xMi45ODYuNjIzLTEwLjUyMy0uNTY5IDEuMDg2LS41NjMgMi4zNzItLjg5MyAzLjczNC0uODkzaC4wNDYtLjAwMnoiLz4KDTxwYXRoIGQ9Im0xMy45NjYgMTcuNTg1YzQuNTAyLTIuMzQgMi40MjEtNC41ODguOTY3LTQuMjg2LS4xOTkuMDM3LS4zNzIuMDg1LS41MzkuMTQ2bC4wMjMtLjAwN2MuMDk1LS4xMzQuMjI2LS4yMzcuMzc5LS4yOTVsLjAwNi0uMDAyYzIuODc0LTEuMDEgNS4wODYgMi45ODEtLjkyOCA0LjU2LjAzNy0uMDMzLjA2Ny0uMDcyLjA4OS0uMTE1bC4wMDEtLjAwMnoiLz4KDTxwYXRoIGQ9Im0xMS4yNTIgMHMyLjQ5NCAyLjQ5NC0yLjM2NiA2LjMzYy0zLjg5NiAzLjA3Ny0uODg5IDQuODMxIDAgNi44MzYtMi4yNzQtMi4wNTItMy45NDMtMy44NTgtMi44MjQtNS41NCAxLjY0NC0yLjQ2OCA2LjE5Ny0zLjY2NCA1LjE5LTcuNjI3eiIvPgoNPHBhdGggZD0ibTYuNTg1IDIzLjkyNWM0LjMyLjI3NyAxMC45Ni0uMTU0IDExLjEyLTIuMTk4IDAgMC0uMzAyLjc3NS0zLjU3MiAxLjM5MS0xLjgwNi4zMjYtMy44ODUuNTEyLTYuMDA4LjUxMi0xLjczOSAwLTMuNDQ4LS4xMjUtNS4xMjEtLjM2NmwuMTkxLjAyM3MuNTUzLjQ1OCAzLjM5My42NHoiLz4KDTwvZz4KDTwvc3ZnPg==&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![typescript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-  
-  ## Contribution Streak
+### ⚛️Frameworks
 
-<p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaiswal4sudeep's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiswal4sudeep&theme=monokai-metallian&hide_border=true"/>
-</p>
-  
-  
-  ## GitHub Statistics
-  
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=jaiswal4sudeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="jaiswal4sudeep's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswal4sudeep&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  
-<br/><br/>
+![Angular](https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![react](https://img.shields.io/badge/react.js-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![nextdotjs](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![nodedotjs](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="jaiswal4sudeep's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=jaiswal4sudeep&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-  
-## Favorite Tools
+### 📝Software
 
-### Programming Languages
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=for-the-badge&logo=atom&logoColor=white)
+![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-</p>
+### 🐬Database
 
-### Frameworks & Libraries
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
+### 📘Libraries
 
-### Databases & Cloud Hosting
+![jss](https://img.shields.io/badge/jss-F7DF1E.svg?style=for-the-badge&logo=jss&logoColor=black)
+![mui](https://img.shields.io/badge/mui-007FFF.svg?style=for-the-badge&logo=mui&logoColor=white)
+![p5dotjs](https://img.shields.io/badge/p5.js-ED225D.svg?style=for-the-badge&logo=p5dotjs&logoColor=white)
+![threedotjs](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/tailwind_css-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-</p>
+### 🐙Others
 
-### Software and tools
+![Android](https://img.shields.io/badge/Android-44A833.svg?style=for-the-badge&logo=android&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![fireship](https://img.shields.io/badge/fireship-EB844E.svg?style=for-the-badge&logo=fireship&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![openai](https://img.shields.io/badge/open_ai_api-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+<div align="center">
 
-  ## Thank you for visting my profile
-  
-  ![Visitor Count](https://profile-counter.glitch.me/jaiswal4sudep/count.svg)
-  
-## Connect with Me:
-  
-  <p>
-<a href="https://github.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-black?logo=github&style=flat-square"/></a>
-<a href="https://www.linkedin.com/in/jaiswal4sudeep/"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=linkedin&style=flat-square"></a>
-<a href="https://instagram.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-pink?logo=instagram&style=flat-square"/></a>
-<a href="mailto:jaiswal4sudeep@gmail.com"><img src="https://img.shields.io/badge/-jaiswal4sudeep@gmail.com-black?logo=gmail&style=flat-square"/></a>
-<a href="https://twitter.com/jaiswal4sudeep"><img src="https://img.shields.io/badge/-jaiswal4sudeep-blue?logo=twitter&style=flat-square"/></a>
-</p>
-  
-<hr>
-  <p>Made with &hearts; by <a href="https://github.com/jaiswal4sudeep" style="color:white">SuDeep Jaiswal</a><p>
-  <p> Last Update: Jan 24, 2022 </p>
+![Not a brag, just the truth](https://raw.githubusercontent.com/khot-aditya/Khot-Aditya/main/giphy.webp)
 
+</div>
 
-  
-  
+<h1 align="left">🔥 Some Statistics</h1>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/khot-aditya/Khot-Aditya/blob/main/devcard.svg" alt="Dev Card" width="100%" height="auto"/></td>
+    <td valign="top">
+     <img src="https://github-readme-stats.vercel.app/api?username=khot-aditya&show_icons=true&theme=swift" width="100%"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=khot-aditya&theme=swift&card_width=400" width="100%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=khot-aditya&row=2&column=4&theme=oldie&no-frame=true&margin-w=15&margin-h=15" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
 
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
   
   
