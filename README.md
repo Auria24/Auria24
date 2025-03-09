@@ -107,7 +107,7 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 &emsp;
 ![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
-![excel](https://img.shields.io/badge/-excel-000?&logo=excel)
+![excel](https://img.shields.io/badge/-Microsof-texcel-000?&logo=microsoft-excel)
 
 ### Librerias:
 &emsp;
@@ -119,4 +119,3 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![Math](https://img.shields.io/badge/-Math-000?&logo=Math)
 
 
- Math
