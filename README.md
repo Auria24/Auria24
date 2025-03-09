@@ -103,13 +103,11 @@ Credit: [NavodyaPasqual](https://github.com/NavodyaPasqual)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
-### SRE & DevOps:
-&emsp;
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-
 ### Visualizacion de datos:
-
+&emsp;
+![Tableau](https://img.shields.io/badge/-Tableau-000?&logo=Tableau)
+![PowerBI](https://img.shields.io/badge/-PowerBI-000?&logo=PowerBI)
+![excel](https://img.shields.io/badge/-excel-000?&logo=excel)
 
 
 
