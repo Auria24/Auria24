@@ -82,7 +82,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-000?&logo=Microsoft-Excel)
 ![Google sheets](https://img.shields.io/badge/-Google%20Sheets-000?&logo=google%20sheets)
 
-### Libreries:
+### Libreryes:
 &emsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
