@@ -25,17 +25,7 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 - Tools: Git, Docker, VS Code
 - Databases: MySQL, PostgreSQL, MongoDB
 - Data visualization: tableau, power BI
-- 
-
-## 📈 GitHub Stats
-
-![Auria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auria24&show_icons=true&theme=radical)
-
-## 🌟 Top Repositories
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Auria24&repo=your-repo-name&theme=radical)](https://github.com/Auria24/your-repo-name)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Auria24&repo=another-repo-name&theme=radical)](https://github.com/Auria24/another-repo-name)
+  
 
 
 🤝 &nbsp; Connect with Me
@@ -99,6 +89,17 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> |<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> |<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"/> |<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> |<img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"/>|<img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> |<img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40" height="40" alt="Git"/> |<img src="https://logowik.com/content/uploads/images/tableau-software.jpg" alt="express" width="43" height="37" /> |<a href="https://www.anaconda.com/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" /> |<a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" alt="express" width="44" height="44"/> </a> | <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="express" width="44" height="44"/> </a> |<a href="https://www.scipy.org/"> <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/> </a> |<a href="https://spacy.io/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/699256981287100416/7-7zis8f_400x400.png" alt="pytorch" width="40" height="40"/> </a> |![ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white) |
 ![Gogle sheets](https://img.shields.io/badge/Googlesheets-3DDC84.svg?style=for-the-badge&logo=Google-sheets&logoColor=white) |<img src="https://skillicons.dev/icons?i=github">
+
+
+## 📈 GitHub Stats
+
+![Auria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Auria24&show_icons=true&theme=radical)
+
+## 🌟 Top Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Auria24&repo=your-repo-name&theme=radical)](https://github.com/Auria24/your-repo-name)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Auria24&repo=another-repo-name&theme=radical)](https://github.com/Auria24/another-repo-name)
 
 
 <hr>
