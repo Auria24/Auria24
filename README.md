@@ -123,7 +123,12 @@ I'm a passionate developer with interests in Python, and machine learning. I lov
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
 
+###
+<br clear ="both">
+[<img src="https://raw.githubusercontent.com/Auria24/Auria24/refs/heads/main/snake%20(1).svg" alt ="Snake animation" />
 
+ <br>
+ ###
 <!-- Greeting -->
 
 
